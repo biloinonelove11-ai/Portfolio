@@ -1,4 +1,4 @@
-# Samuel Girma - Full Stack Developer & Cybersecurity Expert
+# Bilusma Adugna - Full Stack Developer & Cybersecurity Expert
 
 ![Portfolio Banner](/src/assets/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
 
@@ -64,4 +64,4 @@ The project uses a custom Tailwind configuration extending the default theme wit
 MIT License - feel free to use this code for your own portfolio!
 
 ---
-*Developed by [Samuel Girma](https://twitter.com/samgirma)*
+*Developed by [Bilusma Adugna](https://github.com/biloinonelove11-ai)*

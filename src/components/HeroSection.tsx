@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowDown, Shield, Code2, Globe } from "lucide-react";
-import heroCrystal from "@/assets/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg";
+
 
 export const HeroSection = () => {
   return (
@@ -64,9 +64,9 @@ export const HeroSection = () => {
             transition={{ delay: 0.5, duration: 0.8 }}
           >
             <span className="text-foreground">Hi, I'm </span>
-            <span className="text-gradient">Samuel</span>
+            <span className="text-gradient">Bilusma</span>
             <br />
-            <span className="text-foreground">Girma</span>
+            <span className="text-foreground">Adugna</span>
           </motion.h1>
 
           <motion.p
@@ -136,16 +136,16 @@ export const HeroSection = () => {
             {/* Glow Effect */}
             <div className="absolute inset-0 bg-gradient-to-r from-primary/30 via-accent/30 to-secondary/30 rounded-full blur-3xl animate-pulse-glow" />
             
-            {/* Crystal Image */}
+            {/* Profile Image */}
             <motion.div
               className="relative z-10 float"
               animate={{ y: [0, -20, 0] }}
               transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
             >
               <img
-                src={heroCrystal}
-                alt="Iridescent Crystal Heart"
-                className="w-full h-auto rounded-3xl"
+                src="/bilusma_adugna.jpg"
+                alt="Bilusma Adugna"
+                className="w-full h-auto rounded-full border-4 border-primary/30 shadow-2xl shadow-primary/20"
               />
             </motion.div>
 

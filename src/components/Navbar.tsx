@@ -11,9 +11,9 @@ const navLinks = [
 ];
 
 const socialLinks = [
-  { icon: Github, href: "https://github.com/samgirma", label: "GitHub" },
-  { icon: Linkedin, href: "https://www.linkedin.com/in/samuel-girma-442088296/", label: "LinkedIn" },
-  { icon: Mail, href: "mailto:girmasamuel200@gmail.com", label: "Email" },
+  { icon: Github, href: "https://github.com/biloinonelove11-ai", label: "GitHub" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/bilisuma-adugna-65a085369", label: "LinkedIn" },
+  { icon: Mail, href: "mailto:biloinonelove11@gmail.com", label: "Email" },
 ];
 
 export const Navbar = () => {
@@ -36,7 +36,7 @@ export const Navbar = () => {
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
-            SG
+            BA
           </motion.button>
 
           {/* Suspended Image Panel */}
@@ -60,15 +60,15 @@ export const Navbar = () => {
                   >
                     {/* Placeholder - replace src with your image */}
                     <img
-                      src="/6005917915964100295.jpg"
-                      alt="Profile"
+                      src="/bilusma_adugna.jpg"
+                      alt="Bilusma Adugna"
                       className="w-full h-full object-cover"
                     />
                     {/* Glow overlay */}
                     <div className="absolute inset-0 bg-gradient-to-t from-primary/20 via-transparent to-accent/10 pointer-events-none" />
                   </div>
                   {/* Close hint */}
-                  <p className="text-xs text-muted-foreground text-center mt-2">Click SG to close</p>
+                  <p className="text-xs text-muted-foreground text-center mt-2">Click BA to close</p>
                 </div>
               </motion.div>
             )}

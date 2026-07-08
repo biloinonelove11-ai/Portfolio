@@ -127,3 +127,6 @@ dist-ssr
 
 # OS X
 .DS_Store
+
+# Generated zip archives
+*.zip

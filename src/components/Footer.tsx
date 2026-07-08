@@ -2,10 +2,9 @@ import { motion } from "framer-motion";
 import { Github, Linkedin, Mail, MessageCircle, Heart } from "lucide-react";
 
 const socialLinks = [
-  { icon: Github, href: "https://github.com/samgirma", label: "GitHub" },
-  { icon: Linkedin, href: "https://www.linkedin.com/in/samuel-girma-442088296/", label: "LinkedIn" },
-  { icon: Mail, href: "mailto:girmasamuel200@gmail.com", label: "Email" },
-  { icon: MessageCircle, href: "http://t.me/Code_Architect01", label: "Telegram" },
+  { icon: Github, href: "https://github.com/biloinonelove11-ai", label: "GitHub" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/bilisuma-adugna-65a085369", label: "LinkedIn" },
+  { icon: Mail, href: "mailto:biloinonelove11@gmail.com", label: "Email" },
 ];
 
 export const Footer = () => {
@@ -22,9 +21,9 @@ export const Footer = () => {
             transition={{ duration: 0.5 }}
             className="text-center md:text-left"
           >
-            <span className="font-display text-2xl font-bold text-gradient">SG</span>
+            <span className="font-display text-2xl font-bold text-gradient">BA</span>
             <p className="text-sm text-muted-foreground mt-2 flex items-center gap-1 justify-center md:justify-start">
-              Made with <Heart className="w-4 h-4 text-accent fill-accent" /> by Samuel Girma
+              Made with <Heart className="w-4 h-4 text-accent fill-accent" /> by Bilusma Adugna
             </p>
             <p className="text-xs text-muted-foreground mt-1">
               © {currentYear} All rights reserved.

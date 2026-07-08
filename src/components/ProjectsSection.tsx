@@ -9,7 +9,7 @@ const projects = [
     tags: ["React", "Node.js", "Socket.io", "MongoDB"],
     icon: MessageCircle,
     liveUrl: "https://negarit-beta.vercel.app/",
-    githubUrl: "https://github.com/samgirma",
+    githubUrl: "https://github.com/biloinonelove11-ai",
     color: "primary",
     status: "Live",
   },
@@ -19,7 +19,7 @@ const projects = [
     tags: ["React", "Express", "PostgreSQL", "JWT"],
     icon: Lock,
     liveUrl: "https://online-exam-app-mauve.vercel.app/",
-    githubUrl: "https://github.com/samgirma",
+    githubUrl: "https://github.com/biloinonelove11-ai",
     color: "secondary",
     status: "Live",
   },
@@ -29,7 +29,7 @@ const projects = [
     tags: ["Web3", "Solidity", "React", "Ethereum"],
     icon: FileCheck,
     liveUrl: null,
-    githubUrl: "https://github.com/samgirma",
+    githubUrl: "https://github.com/biloinonelove11-ai",
     color: "accent",
     status: "Maintenance",
   },
@@ -39,7 +39,7 @@ const projects = [
     tags: ["Blockchain", "Smart Contracts", "React", "Web3.js"],
     icon: Vote,
     liveUrl: null,
-    githubUrl: "https://github.com/samgirma",
+    githubUrl: "https://github.com/biloinonelove11-ai",
     color: "primary",
     status: "In Progress",
   },
@@ -49,7 +49,7 @@ const projects = [
     tags: ["Node.js", "PostgreSQL", "Express", "Docker"],
     icon: Truck,
     liveUrl: null,
-    githubUrl: "https://github.com/samgirma",
+    githubUrl: "https://github.com/biloinonelove11-ai",
     color: "secondary",
     status: "Completed",
   },
@@ -174,7 +174,7 @@ export const ProjectsSection = () => {
           transition={{ delay: 0.8 }}
         >
           <motion.a
-            href="https://github.com/samgirma"
+            href="https://github.com/biloinonelove11-ai"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-ghost inline-flex items-center gap-2"
