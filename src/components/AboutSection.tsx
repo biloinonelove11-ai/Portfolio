@@ -64,7 +64,7 @@ export const AboutSection = () => {
           >
             <div className="glass-card p-8">
               <p className="text-lg text-foreground/90 leading-relaxed mb-6">
-                I am <span className="text-primary font-semibold">Bilusma Adugna</span>, a dedicated Software Engineer and Full Stack Developer with a strong background in penetration testing and competitive cybersecurity as a CTF player.
+                I am <span className="text-primary font-semibold">Bilisuma Adugna</span>, a dedicated Software Engineer and Full Stack Developer with a strong background in penetration testing and competitive cybersecurity as a CTF player.
               </p>
               <p className="text-muted-foreground leading-relaxed mb-6">
                 I bring a <span className="text-secondary">security-first mindset</span> to my work, ensuring that every application I build is robust, secure, and scalable. Currently, I'm focused on exploring <span className="text-accent">Web3 technologies</span> and building blockchain-based validation systems.

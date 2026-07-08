@@ -13,7 +13,7 @@ const contactInfo = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "Bilusma Adugna",
+    value: "Bilisuma Adugna",
     href: "https://www.linkedin.com/in/bilisuma-adugna-65a085369",
     color: "secondary",
   },

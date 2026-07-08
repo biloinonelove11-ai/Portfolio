@@ -23,7 +23,7 @@ export const Footer = () => {
           >
             <span className="font-display text-2xl font-bold text-gradient">BA</span>
             <p className="text-sm text-muted-foreground mt-2 flex items-center gap-1 justify-center md:justify-start">
-              Made with <Heart className="w-4 h-4 text-accent fill-accent" /> by Bilusma Adugna
+              Made with <Heart className="w-4 h-4 text-accent fill-accent" /> by Bilisuma Adugna
             </p>
             <p className="text-xs text-muted-foreground mt-1">
               © {currentYear} All rights reserved.

@@ -61,7 +61,7 @@ export const Navbar = () => {
                     {/* Placeholder - replace src with your image */}
                     <img
                       src="/bilusma_adugna.jpg"
-                      alt="Bilusma Adugna"
+                      alt="Bilisuma Adugna"
                       className="w-full h-full object-cover"
                     />
                     {/* Glow overlay */}

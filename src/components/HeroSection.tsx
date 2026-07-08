@@ -64,7 +64,7 @@ export const HeroSection = () => {
             transition={{ delay: 0.5, duration: 0.8 }}
           >
             <span className="text-foreground">Hi, I'm </span>
-            <span className="text-gradient">Bilusma</span>
+            <span className="text-gradient">Bilisuma</span>
             <br />
             <span className="text-foreground">Adugna</span>
           </motion.h1>
@@ -144,7 +144,7 @@ export const HeroSection = () => {
             >
               <img
                 src="/bilusma_adugna.jpg"
-                alt="Bilusma Adugna"
+                alt="Bilisuma Adugna"
                 className="w-full h-auto rounded-full border-4 border-primary/30 shadow-2xl shadow-primary/20"
               />
             </motion.div>
